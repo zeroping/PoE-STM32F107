@@ -1,0 +1,165 @@
+PCBNEW-LibModule-V1  Fri 20 Sep 2013 01:27:48 AM EDT
+# encoding utf-8
+Units mm
+$INDEX
+HTSSOP-20
+$EndINDEX
+$MODULE HTSSOP-20
+Po 0 0 0 15 523BDCB0 00000000 ~~
+Li HTSSOP-20
+Sc 0
+AR 
+Op 0 0 0
+T0 -5.805 0 1 1 900 0.15 N I 21 N "HTSSOP-20"
+T1 5.805 0 1 1 900 0.15 N V 21 N "VAL**"
+DS -2.2 3.25 2.2 3.25 0.15 21
+DS -2.2 -3.25 2.2 -3.25 0.15 21
+$PAD
+Sh "1" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.925 -2.925
+$EndPAD
+$PAD
+Sh "2" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.925 -2.275
+$EndPAD
+$PAD
+Sh "3" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.925 -1.625
+$EndPAD
+$PAD
+Sh "4" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.925 -0.975
+$EndPAD
+$PAD
+Sh "5" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.925 -0.325
+$EndPAD
+$PAD
+Sh "6" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.925 0.325
+$EndPAD
+$PAD
+Sh "7" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.925 0.975
+$EndPAD
+$PAD
+Sh "8" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.925 1.625
+$EndPAD
+$PAD
+Sh "9" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.925 2.275
+$EndPAD
+$PAD
+Sh "10" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.925 2.925
+$EndPAD
+$PAD
+Sh "11" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.925 2.925
+$EndPAD
+$PAD
+Sh "12" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.925 2.275
+$EndPAD
+$PAD
+Sh "13" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.925 1.625
+$EndPAD
+$PAD
+Sh "14" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.925 0.975
+$EndPAD
+$PAD
+Sh "15" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.925 0.325
+$EndPAD
+$PAD
+Sh "16" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.925 -0.325
+$EndPAD
+$PAD
+Sh "17" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.925 -0.975
+$EndPAD
+$PAD
+Sh "18" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.925 -1.625
+$EndPAD
+$PAD
+Sh "19" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.925 -2.275
+$EndPAD
+$PAD
+Sh "20" R 1.05 0.32 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.925 -2.925
+$EndPAD
+$PAD
+Sh "PAD" R 4.2 3 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE HTSSOP-20
+$EndLIBRARY
