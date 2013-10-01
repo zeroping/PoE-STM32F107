@@ -1527,6 +1527,8 @@ F9 "GND" I R 6600 1150 60
 F10 "LED1" O L 4950 1250 60 
 F11 "LED2" O L 4950 1150 60 
 F12 "3.3V" O L 4950 950 60 
+F13 "Unisolated 48 +" I R 6600 1900 60 
+F14 "Unisolated 48 -" I R 6600 2000 60 
 $EndSheet
 $Comp
 L +5V #PWR07
@@ -1593,4 +1595,8 @@ Connection ~ 9150 6550
 Connection ~ 7950 6350
 Connection ~ 7500 3400
 Connection ~ 7900 3400
+Text Label 6600 1900 0    60   ~ 0
+48V+ filtered input
+Text Label 6600 2000 0    60   ~ 0
+RTN
 $EndSCHEMATC
