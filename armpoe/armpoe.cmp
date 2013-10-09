@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Fri 04 Oct 2013 01:29:52 AM EDT
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Mon 07 Oct 2013 09:14:53 PM EDT
 
 BeginCmp
 TimeStamp = /5225AE7D;
@@ -204,34 +204,6 @@ IdModule  = SM0603;
 EndCmp
 
 BeginCmp
-TimeStamp = /523C3443/52465241;
-Reference = C205;
-ValeurCmp = 1uF;
-IdModule  = SM0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /523C3443/52465237;
-Reference = C206;
-ValeurCmp = 100nF;
-IdModule  = SM0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /523C3443/5246551A;
-Reference = C207;
-ValeurCmp = 100nF;
-IdModule  = SM0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /523C3443/52465523;
-Reference = C208;
-ValeurCmp = 1uF;
-IdModule  = SM0603;
-EndCmp
-
-BeginCmp
 TimeStamp = /523C3443/52465B60;
 Reference = C209;
 ValeurCmp = 4.7uF;
@@ -277,6 +249,69 @@ BeginCmp
 TimeStamp = /523C3443/5247815F;
 Reference = C216;
 ValeurCmp = 4.7uF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /523C3443/52535777;
+Reference = C220;
+ValeurCmp = 10uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /523C3443/52535789;
+Reference = C221;
+ValeurCmp = 10uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /523C3443/525357D2;
+Reference = C222;
+ValeurCmp = 10uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /523C3443/52465523;
+Reference = C230;
+ValeurCmp = 100nF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /523C3443/5246551A;
+Reference = C231;
+ValeurCmp = 100nF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /523C3443/525357DB;
+Reference = C232;
+ValeurCmp = 100nF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /523C3443/525357E4;
+Reference = C233;
+ValeurCmp = 100nF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /523C3443/52465241;
+Reference = C234;
+ValeurCmp = 100nF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /523C3443/52465237;
+Reference = C235;
+ValeurCmp = 100nF;
 IdModule  = SM0603;
 EndCmp
 
@@ -729,10 +764,10 @@ IdModule  = LQFP64;
 EndCmp
 
 BeginCmp
-TimeStamp = /523C3443/5240556B;
+TimeStamp = /523C3443/5252DD91;
 Reference = U202;
-ValeurCmp = KSZ8001S;
-IdModule  = SSOP48;
+ValeurCmp = KSZ8041;
+IdModule  = -TQFP48;
 EndCmp
 
 BeginCmp

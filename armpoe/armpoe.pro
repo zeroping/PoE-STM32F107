@@ -1,4 +1,4 @@
-update=Sun 29 Sep 2013 12:42:57 AM EDT
+update=Mon 07 Oct 2013 10:37:31 AM EDT
 version=1
 last_client=pcbnew
 [general]
@@ -107,3 +107,4 @@ LibName26=SSOP48
 LibName27=nolicense/con-pci_express(pci-e)
 LibName28=microchip
 LibName29=crystal-ABM8
+LibName30=nolicense/ref-packages
