@@ -1,13 +1,8 @@
-update=Thu 30 Jan 2014 09:28:32 PM EST
+update=Tue 11 Feb 2014 08:43:35 PM EST
 version=1
 last_client=pcbnew
 [general]
 version=1
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
 [eeschema]
 version=1
 LibDir=../libs
@@ -57,14 +52,19 @@ LibName37=ts431
 LibName38=ksz8001s
 LibName39=nolicense/con-pci_express(pci-e)
 LibName40=mcp1603
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [pcbnew]
 version=1
 LastNetListRead=armpoe.net
 UseCmpFile=1
 PadDrill="    0.000000"
 PadDrillOvalY="    0.000000"
-PadSizeH="    1.800000"
-PadSizeV="    1.900000"
+PadSizeH="    0.800100"
+PadSizeV="    0.800100"
 PcbTextSizeV="    1.500000"
 PcbTextSizeH="    1.500000"
 PcbTextThickness="    0.300000"
@@ -73,7 +73,7 @@ ModuleTextSizeH="    1.000000"
 ModuleTextSizeThickness="    0.150000"
 SolderMaskClearance="    0.000000"
 SolderMaskMinWidth="    0.000000"
-DrawSegmentWidth="    0.100000"
+DrawSegmentWidth="    1.000000"
 BoardOutlineThickness="    0.100000"
 ModuleOutlineThickness="    0.150000"
 [pcbnew/libraries]
@@ -109,3 +109,4 @@ LibName28=microchip
 LibName29=crystal-ABM8
 LibName30=nolicense/ref-packages
 LibName31=micro-usb-10118192
+LibName32=saturnal_smd_pcb
