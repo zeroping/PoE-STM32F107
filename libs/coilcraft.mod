@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Fri 20 Sep 2013 10:08:51 AM EDT
+PCBNEW-LibModule-V1  Thu 30 Jan 2014 09:23:00 PM EST
 # encoding utf-8
 Units mm
 $INDEX
@@ -8,27 +8,30 @@ MSS7341
 SER1360
 $EndINDEX
 $MODULE HA3691
-Po 0 0 0 15 523C56ED 00000000 ~~
+Po 0 0 0 15 52EB08FD 00000000 ~~
 Li HA3691
 Sc 0
-AR 
+AR /5239A629
 Op 0 0 0
-T0 0 8.001 1 1 0 0.15 N V 21 N "HA3691"
-T1 0 5.207 1 1 0 0.15 N V 21 N "VAL**"
+T0 -0.1 0.7 0.5 0.5 0 0.1125 N V 21 N "T102"
+T1 0 5.207 0.5 0.5 0 0.1125 N V 21 N "HA3691-AL"
+DC -5.6 5 -5.4 5.2 0.15 21
+DS 6.5 6.7 6.5 -6.7 0.15 21
+DS -6.5 -6.7 -6.5 6.7 0.15 21
 DS -6.5 6.73 6.5 6.73 0.15 21
 DS -6.5 -6.73 6.5 -6.73 0.15 21
 $PAD
 Sh "1" R 2.03 1.27 0 0 0
 Dr 0 0 0
 At SMD N 00888000
-Ne 0 ""
+Ne 1 "/MCU/Unisolated 48 +"
 Po -8.51 5
 $EndPAD
 $PAD
 Sh "2" R 2.03 1.27 0 0 0
 Dr 0 0 0
 At SMD N 00888000
-Ne 0 ""
+Ne 3 "/primary low"
 Po -8.51 2.5
 $EndPAD
 $PAD
@@ -42,28 +45,28 @@ $PAD
 Sh "4" R 2.03 1.27 0 0 0
 Dr 0 0 0
 At SMD N 00888000
-Ne 0 ""
+Ne 6 "N-000006"
 Po -8.51 -2.5
 $EndPAD
 $PAD
 Sh "5" R 2.03 1.27 0 0 0
 Dr 0 0 0
 At SMD N 00888000
-Ne 0 ""
+Ne 2 "/MCU/Unisolated 48 -"
 Po -8.51 -5
 $EndPAD
 $PAD
 Sh "6" R 2.03 1.27 0 0 0
 Dr 0 0 0
 At SMD N 00888000
-Ne 0 ""
+Ne 4 "N-0000021"
 Po 8.51 -5
 $EndPAD
 $PAD
 Sh "7" R 2.03 1.27 0 0 0
 Dr 0 0 0
 At SMD N 00888000
-Ne 0 ""
+Ne 4 "N-0000021"
 Po 8.51 -2.5
 $EndPAD
 $PAD
@@ -77,14 +80,14 @@ $PAD
 Sh "9" R 2.03 1.27 0 0 0
 Dr 0 0 0
 At SMD N 00888000
-Ne 0 ""
+Ne 5 "N-0000058"
 Po 8.51 2.5
 $EndPAD
 $PAD
 Sh "10" R 2.03 1.27 0 0 0
 Dr 0 0 0
 At SMD N 00888000
-Ne 0 ""
+Ne 5 "N-0000058"
 Po 8.51 5
 $EndPAD
 $EndMODULE HA3691
