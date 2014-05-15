@@ -39,6 +39,7 @@ LIBS:ts431
 LIBS:ksz8001s
 LIBS:con-pci_express(pci-e)
 LIBS:mcp1603
+LIBS:crystal_gnd
 LIBS:armpoe-cache
 EELAYER 27 0
 EELAYER END
@@ -46,7 +47,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 2
 Title ""
-Date "12 feb 2014"
+Date "13 feb 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -339,7 +340,7 @@ L R R116
 U 1 1 5225973C
 P 8450 5200
 F 0 "R116" V 8530 5200 40  0000 C CNN
-F 1 "0.6" V 8457 5201 40  0000 C CNN
+F 1 "0.15" V 8457 5201 40  0000 C CNN
 F 2 "~" V 8380 5200 30  0000 C CNN
 F 3 "~" H 8450 5200 30  0000 C CNN
 	1    8450 5200
