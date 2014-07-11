@@ -1,0 +1,483 @@
+PCBNEW-LibModule-V1  Fri 16 May 2014 10:32:46 AM EDT
+# encoding utf-8
+Units mm
+$INDEX
+PCIe-64-SMD-10076266
+$EndINDEX
+$MODULE PCIe-64-SMD-10076266
+Po 0 0 0 15 53762173 00000000 ~~
+Li PCIe-64-SMD-10076266
+Sc 0
+AR 
+Op 0 0 0
+T0 -2.5 0 1 1 0 0.15 N V 21 N "PCIe-64-SMD-10076266"
+T1 15 0 1 1 0 0.15 N V 21 N "VAL**"
+DS -14.5 5.1 24.5 5.1 0.15 21
+DS 24.5 -3.7 24.5 5.1 0.15 21
+DS -14.5 3.7 24.5 3.7 0.15 21
+DS 24.5 -3.7 -14.5 -3.7 0.15 21
+DS -14.5 -3.7 -14.5 5.1 0.15 21
+$PAD
+Sh "A1" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -11.5 -3.6
+$EndPAD
+$PAD
+Sh "A2" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -10.5 -3.6
+$EndPAD
+$PAD
+Sh "A3" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.5 -3.6
+$EndPAD
+$PAD
+Sh "A4" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.5 -3.6
+$EndPAD
+$PAD
+Sh "A5" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 -3.6
+$EndPAD
+$PAD
+Sh "A6" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.5 -3.6
+$EndPAD
+$PAD
+Sh "A7" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.5 -3.6
+$EndPAD
+$PAD
+Sh "A8" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.5 -3.6
+$EndPAD
+$PAD
+Sh "A9" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.5 -3.6
+$EndPAD
+$PAD
+Sh "A10" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.5 -3.6
+$EndPAD
+$PAD
+Sh "A11" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.5 -3.6
+$EndPAD
+$PAD
+Sh "A12" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.5 -3.6
+$EndPAD
+$PAD
+Sh "A13" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.5 -3.6
+$EndPAD
+$PAD
+Sh "A14" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.5 -3.6
+$EndPAD
+$PAD
+Sh "A15" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.5 -3.6
+$EndPAD
+$PAD
+Sh "A17" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.5 -3.6
+$EndPAD
+$PAD
+Sh "A18" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 -3.6
+$EndPAD
+$PAD
+Sh "A20" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.5 -3.6
+$EndPAD
+$PAD
+Sh "A21" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10.5 -3.6
+$EndPAD
+$PAD
+Sh "A22" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11.5 -3.6
+$EndPAD
+$PAD
+Sh "A23" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.5 -3.6
+$EndPAD
+$PAD
+Sh "A24" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 13.5 -3.6
+$EndPAD
+$PAD
+Sh "A25" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 14.5 -3.6
+$EndPAD
+$PAD
+Sh "A26" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 15.5 -3.6
+$EndPAD
+$PAD
+Sh "A27" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 16.5 -3.6
+$EndPAD
+$PAD
+Sh "A28" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 17.5 -3.6
+$EndPAD
+$PAD
+Sh "A29" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 18.5 -3.6
+$EndPAD
+$PAD
+Sh "A30" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 19.5 -3.6
+$EndPAD
+$PAD
+Sh "A31" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 20.5 -3.6
+$EndPAD
+$PAD
+Sh "A32" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 21.5 -3.6
+$EndPAD
+$PAD
+Sh "B1" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -11.5 3.6
+$EndPAD
+$PAD
+Sh "B2" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -10.5 3.6
+$EndPAD
+$PAD
+Sh "B3" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -9.5 3.6
+$EndPAD
+$PAD
+Sh "B4" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -8.5 3.6
+$EndPAD
+$PAD
+Sh "B5" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.5 3.6
+$EndPAD
+$PAD
+Sh "B6" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.5 3.6
+$EndPAD
+$PAD
+Sh "B7" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.5 3.6
+$EndPAD
+$PAD
+Sh "B8" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -4.5 3.6
+$EndPAD
+$PAD
+Sh "B9" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.5 3.6
+$EndPAD
+$PAD
+Sh "B10" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.5 3.6
+$EndPAD
+$PAD
+Sh "B11" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.5 3.6
+$EndPAD
+$PAD
+Sh "B12" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.5 3.6
+$EndPAD
+$PAD
+Sh "B13" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.5 3.6
+$EndPAD
+$PAD
+Sh "B14" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.5 3.6
+$EndPAD
+$PAD
+Sh "B15" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.5 3.6
+$EndPAD
+$PAD
+Sh "B16" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.5 3.6
+$EndPAD
+$PAD
+Sh "B17" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.5 3.6
+$EndPAD
+$PAD
+Sh "B18" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.5 3.6
+$EndPAD
+$PAD
+Sh "B19" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.5 3.6
+$EndPAD
+$PAD
+Sh "B20" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.5 3.6
+$EndPAD
+$PAD
+Sh "B21" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10.5 3.6
+$EndPAD
+$PAD
+Sh "B22" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11.5 3.6
+$EndPAD
+$PAD
+Sh "B23" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.5 3.6
+$EndPAD
+$PAD
+Sh "B24" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 13.5 3.6
+$EndPAD
+$PAD
+Sh "B25" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 14.5 3.6
+$EndPAD
+$PAD
+Sh "B26" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 15.5 3.6
+$EndPAD
+$PAD
+Sh "B27" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 16.5 3.6
+$EndPAD
+$PAD
+Sh "B28" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 17.5 3.6
+$EndPAD
+$PAD
+Sh "B29" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 18.5 3.6
+$EndPAD
+$PAD
+Sh "B30" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 19.5 3.6
+$EndPAD
+$PAD
+Sh "B31" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 20.5 3.6
+$EndPAD
+$PAD
+Sh "B32" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 21.5 3.6
+$EndPAD
+$PAD
+Sh "A16" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.5 -3.6
+$EndPAD
+$PAD
+Sh "A19" R 0.7 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.5 -3.6
+$EndPAD
+$PAD
+Sh "M" R 3 5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -14.5 0
+$EndPAD
+$PAD
+Sh "M" R 3 5 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 24.5 0
+$EndPAD
+$EndMODULE PCIe-64-SMD-10076266
+$EndLIBRARY

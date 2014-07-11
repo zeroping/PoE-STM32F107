@@ -1,0 +1,18 @@
+Drill report for /home/scott/stm32f107/hw/armpoe/armpoe.kicad_pcb
+Created on Thu 13 Feb 2014 02:22:44 AM EST
+Drill report for plated through holes :
+T1  0.33mm  0.013"  (61 holes)
+T2  0.50mm  0.020"  (78 holes)
+T3  0.63mm  0.025"  (2 holes)
+T4  0.89mm  0.035"  (12 holes)
+T5  1.57mm  0.062"  (2 holes)
+T6  3.25mm  0.128"  (2 holes)
+
+Total plated holes count 157
+
+
+Drill report for unplated through holes :
+
+Total unplated holes count 0
+
+

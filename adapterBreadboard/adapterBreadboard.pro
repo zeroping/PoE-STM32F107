@@ -1,4 +1,4 @@
-update=Wed 14 May 2014 09:24:01 AM EDT
+update=Fri 16 May 2014 10:59:31 AM EDT
 version=1
 last_client=pcbnew
 [general]
@@ -55,8 +55,8 @@ LastNetListRead=adapterBreadboard.net
 UseCmpFile=1
 PadDrill="    0.000000"
 PadDrillOvalY="    0.000000"
-PadSizeH="    1.650000"
-PadSizeV="    1.300000"
+PadSizeH="    3.000000"
+PadSizeV="    5.000000"
 PcbTextSizeV="    1.500000"
 PcbTextSizeH="    1.500000"
 PcbTextThickness="    0.300000"
@@ -65,7 +65,7 @@ ModuleTextSizeH="    1.000000"
 ModuleTextSizeThickness="    0.150000"
 SolderMaskClearance="    0.000000"
 SolderMaskMinWidth="    0.000000"
-DrawSegmentWidth="    0.200000"
+DrawSegmentWidth="    0.600000"
 BoardOutlineThickness="    0.100000"
 ModuleOutlineThickness="    0.150000"
 [pcbnew/libraries]
@@ -92,3 +92,4 @@ LibName19=/home/scott/stm32f107/hw/libs/101-0624-EV
 LibName20=/home/scott/stm32f107/hw/libs/micro-usb-10118192
 LibName21=/home/scott/stm32f107/hw/libs/tact_sw_4_3mm
 LibName22=/home/scott/stm32f107/hw/libs/dp_devices
+LibName23=/home/scott/stm32f107/hw/libs/PCI-Express

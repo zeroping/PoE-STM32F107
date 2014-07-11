@@ -39,6 +39,7 @@ LIBS:ts431
 LIBS:ksz8001s
 LIBS:con-pci_express(pci-e)
 LIBS:mcp1603
+LIBS:crystal_gnd
 LIBS:armpoe-cache
 EELAYER 27 0
 EELAYER END
@@ -46,7 +47,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 2
 Title ""
-Date "12 feb 2014"
+Date "13 feb 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -234,17 +235,6 @@ Text Label 7400 2800 0    60   ~ 0
 RMII_MDC
 Text Label 7400 2700 0    60   ~ 0
 RMII_MDIO
-$Comp
-L CRYSTAL X202
-U 1 1 5240559A
-P 4700 6950
-F 0 "X202" H 4700 7100 60  0000 C CNN
-F 1 "CRYSTAL" H 4700 6800 60  0000 C CNN
-F 2 "~" H 4700 6950 60  0000 C CNN
-F 3 "~" H 4700 6950 60  0000 C CNN
-	1    4700 6950
-	1    0    0    -1  
-$EndComp
 Text Label 2500 7500 3    60   ~ 0
 MCO_25
 Text Label 5500 2600 2    60   ~ 0
@@ -761,7 +751,7 @@ Text Label 3900 4400 0    60   ~ 0
 B30
 Text Label 3900 4300 0    60   ~ 0
 B31
-Text Label 3900 4200 0    60   ~ 0
+Text Label 4550 4000 0    60   ~ 0
 B32
 Text HLabel 8700 3950 0    60   Input ~ 0
 Unisolated 48 +
@@ -894,7 +884,7 @@ F 6 "Avnet" H 2300 5350 60  0001 C CNN "Supplier"
 $EndComp
 Text Label 5500 2900 2    60   ~ 0
 ETH_INT
-Text Label 5200 4650 2    60   ~ 0
+Text Label 3900 4200 0    60   ~ 0
 ETH_INT
 Text Label 5500 3600 2    60   ~ 0
 ETH_REXT
@@ -1300,6 +1290,28 @@ F 1 "GND" H 8000 630 30  0001 C CNN
 F 2 "" H 8000 700 60  0000 C CNN
 F 3 "" H 8000 700 60  0000 C CNN
 	1    8000 700 
+	1    0    0    -1  
+$EndComp
+$Comp
+L CRYSTAL_WITH_GND X202
+U 1 1 52FC4DA4
+P 4700 6950
+F 0 "X202" H 4700 7100 60  0000 C CNN
+F 1 "25MHZ" H 4700 6850 60  0000 C CNN
+F 2 "~" H 4700 6950 60  0000 C CNN
+F 3 "~" H 4700 6950 60  0000 C CNN
+	1    4700 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR030
+U 1 1 52FC4DBB
+P 4700 7150
+F 0 "#PWR030" H 4700 7150 30  0001 C CNN
+F 1 "GND" H 4700 7080 30  0001 C CNN
+F 2 "" H 4700 7150 60  0000 C CNN
+F 3 "" H 4700 7150 60  0000 C CNN
+	1    4700 7150
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

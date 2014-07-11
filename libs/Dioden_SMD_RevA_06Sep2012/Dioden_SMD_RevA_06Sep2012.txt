@@ -1,0 +1,34 @@
+# About the file
+Dioden_SMD_RevA_06Sep2012.mod
+
+Contains the KiCAD module/footprint of some
+SMD Diodes.
+
+DD-PAK_TO263_DualDiode_RevA_06Sep2012
+DD-PAK_TO263_SingleDiode_RevA_06Sep2012
+Diode-SMA_Standard_RevA_26July2010
+Diode-SMB_Standard_RevA_26July2010
+Diode-SMC_Standard_RevA_26July2010
+Diode-MELF_Standard_RevA_27July2010
+Diode-MiniMELF_Standard_RevA_27July2010
+Diode-SMA_Handsoldering_RevA_27July2010
+Diode-SMC_Handsoldering_RevA_27July2010
+Diode-SMB_Handsoldering_RevA_27July2010
+Diode-MELF_Handsoldering_RevA_27July2010
+Diode-MiniMELF_Handsoldering_RevA_27July2010
+Diode-Universal-SMA-SMB_Handsoldering_RevA_27July2010
+Diode-Universal-SMB-SMC_Handsoldering_RevA_27July2010
+Diode-Universal-SMC-RM10_Handsoldering_RevA_27July2010
+Diode-Universal-MELF-RM10_Handsoldering_RevA_27July2010
+Diode_SOT23_RevA_03Aug2010
+Diode_SOT23_Handsoldering_RevA_03Aug2010
+
+There are also some wings3d mesh models at this folder. This are the .wing and .wrl files.
+
+For suggestions and improvements please contact me at
+bernd.wiebus@gmx.de
+
+
+Author: Bernd Wiebus / Uedem / Germany / 06th September 2012
+GNU-GPL, NO WARRANTY!
+
